@@ -1,2 +1,1 @@
-# Chapitre 17  
-Transformation : Ingénierie de l’organisation
+# Chapitre 17 - Transformation - Ingénierie de l’organisation

@@ -1,2 +1,1 @@
-# Chapitre 10  
-Gestion de la performance
+# Chapitre 10 : Gestion de la performance

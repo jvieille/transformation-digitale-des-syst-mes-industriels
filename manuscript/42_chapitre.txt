@@ -1,2 +1,1 @@
-# Chapitre 23  
-Gestion des données de référence et Interopérabilité
+# Chapitre 23 - Gestion des données de référence et Interopérabilité

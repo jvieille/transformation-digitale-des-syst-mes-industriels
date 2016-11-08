@@ -1,2 +1,1 @@
--# Partie 2  
-Partie 2  Modèle de référence (niveau général)
+-# Partie 2 : Modèle de référence (niveau général)

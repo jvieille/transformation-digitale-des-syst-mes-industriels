@@ -1,2 +1,1 @@
-# Chapitre 14  
-Exécution : Types d’activités de la transformation
+# Chapitre 14 : Exécution - Types d’activités de la transformation

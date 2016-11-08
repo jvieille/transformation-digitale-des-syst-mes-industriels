@@ -1,5 +1,4 @@
-# Chapitre 5  
-Informatique, Automation, MES
+# Chapitre 5 : Informatique, Automation, MES
 
 Nous sommes à présent en mesure d’apprécier ce qui nous con-duit à considérer l’informatique industrielle de manière particu-lière. Les réflexions précédentes ont permis de dégager quelques indices : la nature tangible des flux de production, le poids capita-listique du système de production, indépendamment de celui de la recherche et de l’innovation. 
 

@@ -1,3 +1,2 @@
-# Chapitre 11  
-Gestion des exigences métier
+# Chapitre 11 : Gestion des exigences métier
 

@@ -1,5 +1,4 @@
-# Chapitre 6  
-Dix erreurs du MES
+# Chapitre 6 : Dix erreurs du MES
 
 L’essence de ce chapitre a été publié au début d’année 2015. Mes collègues éditeurs de logiciels MES m'ont fait remarquer la conso-nance négative du titre susceptible d’inquiéter leurs clients indus-triels. Nous convenions alors qu’une forme provocative pouvait inciter à suivre les pistes évoquées, améliorant les chances de suc-cès de mise en œuvre des applications, la satisfaction des indus-triels et donc le marché du logiciel.  Voici donc en guise de mise en bouche les observations assorties de recommandations qui m'ont conduites aux suggestions qui vont suivre. Ce chapitre éveillera quelques souvenirs aux intégrateurs ou industriels qui ont été directement concernés par des projets de type MES ou d’informatique industrielle. 
 

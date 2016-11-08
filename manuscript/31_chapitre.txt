@@ -1,2 +1,1 @@
-# Chapitre 13  
-Chapitre 18  Vue d’ensemble du modèle de référence
+# Chapitre 13 : Vue d’ensemble du modèle de référence

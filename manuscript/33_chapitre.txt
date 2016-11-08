@@ -1,2 +1,1 @@
-# Chapitre 15  
-Coordination : Gestion des actifs et des configurations
+# Chapitre 15 : Coordination - Gestion des actifs et des configurations

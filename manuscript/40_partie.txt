@@ -1,2 +1,1 @@
--# Partie 4  
-Aspects particuliers
+-# Partie 4 : Aspects particuliers

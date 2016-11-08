@@ -1,2 +1,1 @@
-# Chapitre 4  
-Organisation et contrôle
+# Chapitre 4 : Organisation et contrôle

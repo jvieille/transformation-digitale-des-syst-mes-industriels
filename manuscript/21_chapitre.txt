@@ -1,5 +1,4 @@
-# Chapitre 8  
-Vue d’ensemble du modèle de référence
+# Chapitre 8 : Vue d’ensemble du modèle de référence
 
 On peut résumer le rôle de la direction informatique de parfaire l’alignement de la technologie informationnel sur les besoins du système industriel en évolution permanente. En d’autres termes, il s’agit d’offrir le meilleur soutien de ces technologies au bon fonc-tionnement, à la « performance » de l’outil industriel.
 La notion de Processus représente ici la mise en œuvre des moyens nécessaires pour réaliser cet objectif. Il ne s’agit pas néces-sairement d’un processus « de bout en bout » enchainant un flux d’activités synchronisées. Au contraire, certaines de ces activités sont totalement autonomes, découplées ; elles peuvent être réali-sées par un enchainement formalisé d’étapes déclenchées à pé-riode fixe, formant un processus au sens classique du terme, ou traitées de manière automatique sur événements. Il ne s’agit pas non plus d’établir un modèle complet de gestion des services in-formatique à la manière d’ITIL, mais plutôt d’éclairer et orienter les aspects particulier liés à la dynamisation de la transformation. 

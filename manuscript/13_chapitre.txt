@@ -1,5 +1,4 @@
-# Chapitre 3  
-Systèmes industriels
+# Chapitre 3 : Systèmes industriels
 
 Nous devons tout d’abord de planter le décor, réaliser le contexte particulier qui qualifie l’informatique d’industrielle.
 
